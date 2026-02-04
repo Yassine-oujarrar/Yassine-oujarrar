@@ -1,14 +1,16 @@
 👋 Hi, I'm Yassine OUJARRAR!
 
-🎓 Pursuing a Bachelor's in Data Science at the University of Québec in Trois-Rivières.
+🎓 Bachelor's graduate in Computer Science from the University of Québec in Trois-Rivières.
 
-🌟 Enthusiastic about data analysis and applying computer science principles to solve real-world problems.
+💻 Full-Stack Developer with experience building end-to-end applications and data-driven solutions.
 
-🔍 Creative problem solver passionate about turning data into actionable insights.
+📊 Passionate about data analysis, machine learning, and applying computer science to real-world problems.
 
-🌐 Open to collaborations and learning opportunities in the exciting field of data science.
+🔍 Creative problem solver focused on turning data into actionable insights and scalable systems.
 
-📚 Continuously learning to broaden my programming skills (Python, C#, JAVA, etc.).
+🌐 Open to professional opportunities and collaborations in data science, AI, and software development.
+
+📚 Continuously learning and improving my technical stack (Python, C#, Java, SQL, etc.).
 
 <!--
 **Yassine-oujarrar/Yassine-oujarrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
